@@ -16,4 +16,5 @@
       `---' `---' `---'       
 
  - Front View -
- R2 Astromech Droid (2)
+ R2 Astromech Droid,
+ special thx to Boolean accademy

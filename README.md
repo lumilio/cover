@@ -17,4 +17,4 @@
 
  - Front View -
  R2 Astromech Droid,
- special thx to Boolean accademy
+ special thx to Boolean.com

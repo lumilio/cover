@@ -1,5 +1,5 @@
-> non dimenticare la tua strada.
-> considera i punti di vista altrui.
+> non dimenticare la tua strada
+> considera i punti di vista altrui
 
 ```      
            ,-----.

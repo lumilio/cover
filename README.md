@@ -1,4 +1,5 @@
-non dimenticare la tua strada
+> non dimenticare la tua strada.
+> considera i punti di vista altrui.
 
 ```      
            ,-----.

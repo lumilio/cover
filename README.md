@@ -1,6 +1,5 @@
 + non dimenticare la tua strada.
 + considera i punti di vista altrui.
-+ ogni mattina doccia fredda 🍏
  
 ```      
            ,-----.

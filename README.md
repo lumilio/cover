@@ -15,5 +15,4 @@
       /   \ /   \ /   \   
       `---' `---' `---'       
 
- R2 Astromech Droid,
- special thx to Boolean.com
+ R2 Astromech Droid.

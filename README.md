@@ -1,5 +1,5 @@
-+ non dimenticare la tua strada.
-+ considera i punti di vista altrui.
++ never forget the road you made it.
++ think about others point view.
  
 ```      
            ,-----.

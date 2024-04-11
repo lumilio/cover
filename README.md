@@ -16,4 +16,4 @@
       `---' `---' `---'       
 
  R2 Astromech Droid,
- special thx to Boolean.careers
+ special thx to didakoo dev squad
